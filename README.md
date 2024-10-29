@@ -1,6 +1,8 @@
-![MasterHead](banner.gif)
+<p align="center">
+  <img src="banner.gif" alt="MasterHead" width="800">
+</p>
 <h1 align="center">Hi 👋, I'm Maheswara Abhista</h1>
-<h3 align="center">"Informatics student, problem solver in training whom Turning caffeine and code into knowledge ☕👨‍💻"</h3>
+<h3 align="center">"Informatics student whom Turning caffeine and code into knowledge. Problem solver in training ☕👨‍💻"</h3>
 <img align="right" alt="coding" 
 width="300" src="https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
 
